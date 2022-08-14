@@ -1,0 +1,1 @@
+To run the MATLAB file with k = 13 you can run it just as it is, otherwise for k=40 you will need to comment lines 14, 99 and decomment lines 15, 100.
